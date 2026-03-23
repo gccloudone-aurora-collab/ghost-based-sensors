@@ -1,6 +1,6 @@
 ---
 #001-Example-Pipeline.yaml
-name: Ghost Based Sensors Example
+name: Trivy Code Scan Example
 
 on:
   workflow_dispatch:
